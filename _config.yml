@@ -1,37 +1,26 @@
-##The website title
-name: Blog Name
-##Markdown processor
-markdown: kramdown
-##syntax highlighter. change it to pygments
-highlighter: pygments
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://example.com
-sass:
-  sass_dir: _sass
-  style: :compressed
-paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: Put website description for your home page. (about 50 words or more)
-##Some frequently used keywords on your website
-keywords: some, relevant, keywords, for, usage, in metatags
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-##define this for disqus comment support
-#disqus: forumname
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-##Some commonly used links
-links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+paginate:         5
 
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
-##comment this if you want full width posts with no sidebar
-sidebar: on
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
