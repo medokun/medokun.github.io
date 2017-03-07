@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Ahmed Alshamary site
+title: Ahmed Alshamary
 email: ahmedralshamary@gmail.com
 description: Ahmed Alshamary's Site
-url: www.ahmedalshamary.com
+url: https://ahmedalshamary.com
 
 
 #
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Ahmed Alshamary
   avatar: leonids-logo.png
-  job: "Doing things that make me happy"
+  job: "Something or Another"
   bio: "Ahmed is a prisoner at Georgetown."
   email: ahmedralshamary@gmail.com
   disqus-shortname:
