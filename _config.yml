@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: Ahmed Alshamary
+email: ahmedralshamary@gmail.com
+description: Ahmed Alshamary's Site
+url: # www.ahmedalshamary.com
 
 
 #
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Ahmed Alshamary
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  email: ahmedralshamary@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -51,7 +51,7 @@ owner:
   github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: ahmed-alshamary-3b25b6a1
   skype: #username
   xing: #username
   instagram: #username
