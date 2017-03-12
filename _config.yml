@@ -1,4 +1,4 @@
-#
+    #
 ###################################
 # Site wide configuration
 ####################################
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Ahmed Alshamary
   avatar: leonids-logo.png
-  job: "Doing things that make me happy"
+  job: "Software Stuff"
   bio: "Ahmed is a prisoner at Georgetown."
   email: ahmedralshamary@gmail.com
   disqus-shortname:
