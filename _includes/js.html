@@ -26,6 +26,9 @@ $( window ).resize( function () {
     var height = $( this ).parent().height();
     $( this ).width( width )
       .height( width * $( this ).data( "ratio" ) );
+    $( this ).width( width )
+      .height( width * $( this ).data( "ratio" ) );
+
   });
 // Resize to fix all iframes on page load.
 }).resize();
