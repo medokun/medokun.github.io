@@ -23,9 +23,9 @@ $( window ).resize( function () {
   $iframes.each( function() {
     // Get the parent container&#x27;s width
     var width = $( this ).parent().width();
-    var height = $( this ).parent().parent().parent().height();
+    var height = $( this ).parent();
     $( this ).width( width )
-      .height( width * $( this ).data( "ratio" ) );
+      .height( width ;
     console.log(width);
     console.log(height);
   });
