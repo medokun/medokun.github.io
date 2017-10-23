@@ -12,7 +12,7 @@
     padding: 50px 30px 0;
   }
   @include media-query($medium-screen) {
-    height: 100vh  ;
+    height: 100vh;
     overflow-y: scroll;
     position: initial;
     top: 0;
@@ -109,7 +109,7 @@ a.read-more {
 
 #page {
   padding-bottom: 50px;
-  min-height: 100vh;
+  min-height: 70vh;
   .page-header {
     margin: 0 auto 50px;
   }

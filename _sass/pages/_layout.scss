@@ -22,8 +22,8 @@
   padding: 0 30px;
   .avatar {
     border-radius: 50%;
-    width: 350px;
-    height: 350ox;
+    width: 100px;
+    height: 100px;
     float: none;
   }
   .author_name {
@@ -77,12 +77,6 @@
     display: inline-block;
     *display: inline;
     zoom: 1;
-    &:after {
-      content: '/';
-    }
-    &:last-child:after {
-      content: '';
-    }
     & a {
       margin-top: 1em;
       text-transform: lowercase;
