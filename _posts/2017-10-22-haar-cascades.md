@@ -3,7 +3,7 @@ layout: post
 title: Simple Haar Feature-based Cascade Classifiers in Python
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [python, opencv, Haar]
-modified: 2014-09-14
+modified: 2017-10-22
 comments: true
 ---
 Haar Feature-based Cascade Classifiers are a very simple to implement in code. I will write this article in a bit I'm just playing around with things here Sorry :)
