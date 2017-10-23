@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Simple Haar Feature-based Cascade Classifiers in Python
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
+tags: [python, opencv, Haar]
 modified: 2014-09-14
 comments: true
 ---
-
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+Haar Feature-based Cascade Classifiers are a very simple to implement in code. I will write this article in a bit I'm just playing around with things here Sorry :)
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
