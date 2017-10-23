@@ -1,4 +1,4 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Website
+  descr: "This website - can't say i did much here other than use the excellent leonids theme - https://github.com/renyuanz/leonids"
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/ahmedalshamary/ahmedalshamary.github.io
