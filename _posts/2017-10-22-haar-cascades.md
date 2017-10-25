@@ -8,7 +8,7 @@ categories: [python,opencv]
 comments: true
 ---
 Haar Feature-based Cascade Classifiers are a very simple to implement in code. I will write this article in a bit I'm just playing around with things here Sorry :)
-
+Hi Greg
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
 ### Pygments Code Blocks
