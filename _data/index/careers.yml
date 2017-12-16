@@ -1,23 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name: Georgetown University 
-  link: https://www.sap.com/
+- name: Ridgeline International  
+  link: https://www.ridgelineinternational.com/
   date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Teaching Assistant for COSC 010
+  job: Software Engineering Intern
 
 - name: Georgetown University 
-  #link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+  link: https://www.georgetown.edu/
+  date: August 2017 - Present
+  job: Teaching Assistant
+
+- name: Allowit 
+  link: https://www.sap.com/
+  date: May 2017 - September 2017
+  job: Contracted Software Developer
+
+- name: Georgetown University Entrepreneurship Initiative
+  link: http://startuphoyas.com/
+  date: August 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Web Developer
+
+- name: High Touch Technologies
+  link: https://hightouchtechnologies.com/
+  date: May 2016 - August 2016
+  job: Web Developer
 
 - name: Georgetown University 
-  #link: http://www.google.com/
-  date: July 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Web Devoloper
-
-- name: Georgetown University 
-  link: http://www.facebook.com/
-  date: May 2014 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  link:https://www.georgetown.edu/
+  date: May 2014 - September 2017
   job: Student Technology Consultant
 
