@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1-ttu6499RX5oO5qTRuV-nZRANT2tMGni/view?usp=sharing~
 
-url: https://koppl.in/indigo
+url: https://ahmedalshamary.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
