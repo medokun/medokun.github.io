@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1-ttu6499RX5oO5qTRuV-nZRANT2tMGni/view?usp=sharing~
 
-url: https://ahmedalshamary.com
+url: https://ahmedralshamary.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,24 +34,25 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+# ls
 facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ahmed-alshamary-3b25b6a1
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: ahmedalshamary
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ahmedralshamary@gmail.com
 
 authors:
     johndoe:
