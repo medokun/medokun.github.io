@@ -16,7 +16,9 @@ layout: page
 <p>
   What are causes I support? Inclusion and disability rights (check out: <a target="_blank" href="https://www.etivision.org"> ETI</a>) & combating racism, bias and discrimination of all kinds. 
 </p>
+<p>
   Cheers,
   Ahmed (who stayed long enough in Manchester to think he's British)
+</p>
   p.s. if you're Mo Salah (or, Lebron James, Trevor Noah, Childish Gambino, or anyone who works for Digital Corridor) and reading this - please please email me. 
   
