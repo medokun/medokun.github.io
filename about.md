@@ -20,5 +20,4 @@ layout: page
   Cheers,
   Ahmed (who stayed long enough in Manchester to think he's British)
 </p>
-  p.s. if you're Mo Salah (or, Lebron James, Trevor Noah, Childish Gambino, or anyone who works for Digital Corridor) and reading this - please please email me. 
   

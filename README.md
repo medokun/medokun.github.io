@@ -4,12 +4,9 @@ I am using this repo as the basis for this site https://github.com/sergiokopplin
 
 
 ## TODO
-- update about me
-- add the blog posts from medium
-- add projects
-- add freelance work that i have done.
-- add job reviews.
-- update all assests to be accurate
-
+- Update about me
+- Add section about work
+- Update Resume
+- Add the blog posts from medium
 
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
