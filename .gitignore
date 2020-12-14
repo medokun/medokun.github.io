@@ -1,0 +1,6 @@
+_Store
+_site
+.sass-cache
+Gemfile.lock
+.bundle
+vendor/
